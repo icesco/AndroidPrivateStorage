@@ -25,6 +25,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+```
 
 ### 2. Add the library dependency
 
